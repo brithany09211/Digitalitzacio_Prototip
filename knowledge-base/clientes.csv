@@ -1,0 +1,17 @@
+id,nombre,nivel_fidelidad,preferencia_habitacion,alergias,ultima_estancia,preferencias,idioma
+1,Laura Martínez,Gold,vista_mar,sin_gluten,2025-08-14,"spa, desayuno buffet, habitación tranquila",es
+2,James Wilson,Silver,planta_alta,ninguna,2025-07-20,"bicicletas, late check-out",en
+3,Sophie Dubois,Platinum,vista_mar,frutos_secos,2025-09-01,"masajes, cava bienvenida",fr
+4,Marc Vidal,Gold,cerca_ascensor,lactosa,2025-06-10,"parking, gimnasio",ca
+5,Anna Schmidt,Silver,balcon,ninguna,2025-08-02,"piscina, restaurante vegetariano",de
+6,Luca Rossi,Platinum,suite,judias,2025-08-30,"transfer aeropuerto, room service",it
+7,Emma Johnson,Gold,habitacion_tranquila,gluten,2025-07-18,"spa, yoga, desayuno vegano",en
+8,Carlos Fernández,Silver,planta_baja,ninguna,2025-05-22,"bicicletas eléctricas, playa",es
+9,Julie Martin,Gold,vista_piscina,marisco,2025-09-12,"tratamientos spa, vino",fr
+10,David Brown,Platinum,suite_mar,ninguna,2025-08-25,"late check-out, chófer privado",en
+11,Britany Silva,Gold,vista_mar,ninguna,2025-08-18,"spa, desayuno buffet, shopping",es
+12,Estefania Rubiano,Silver,balcon,lactosa,2025-07-10,"piscina, room service",es
+13,Alba Melendres,Gold,habitacion_tranquila,gluten,2025-09-05,"spa, yoga, desayuno saludable",ca
+14,Nerea Narvaez,Platinum,suite_mar,ninguna,2025-08-28,"late check-out, masaje, cava bienvenida",es
+15,Karen Medrano,Silver,cerca_ascensor,frutos_secos,2025-06-15,"playa, bicicletas, gimnasio",en
+16,Toni Talens,Gold,vista_piscina,ninguna,2025-08-03,"futbol, bar, desayuno temprano",ca
