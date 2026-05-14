@@ -3,7 +3,7 @@ Carga los documentos de la knowledge base,
 los divide en fragmentos y crea la base vectorial ChromaDB.
 Solo hace falta ejecutarlo cuando se añaden nuevos documentos.
 """
-
+import shutil
 import os
 import glob
 from langchain_community.document_loaders import (
